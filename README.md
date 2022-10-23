@@ -9,3 +9,8 @@ Arbitrary directory delete is abused to get SYSTEM shell using method described 
 This PoC will just execute cmd.exe as system so in order to performe other actions such as executing different binary new RBS file should be created (using advanced installer,wix or other  tools).
 
 If you want to test this PoC it is the best to do it on system with minimum of 4 processor cores.
+
+
+
+https://user-images.githubusercontent.com/44291883/197390791-049a27f2-969f-4c5f-9f71-fdc39de27743.mp4
+
