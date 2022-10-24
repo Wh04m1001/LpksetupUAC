@@ -1,9 +1,6 @@
 #include <windows.h>
 #include <combaseapi.h>
-#include <stdio.h>
-#include <windows.h>
 #include <Msi.h>
-#include <combaseapi.h>
 #include <stdio.h>
 #include <Shlwapi.h>
 #include <PathCch.h>
